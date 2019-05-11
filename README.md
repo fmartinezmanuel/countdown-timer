@@ -9,5 +9,3 @@
   <li>You may use any JS framework or no framework at all</li>
   <li>Please write CSS without a framework</li>
 </ul>
-
-<p><strong>Provide a Github or JSFiddle link</strong></p>
