@@ -1,0 +1,25 @@
+.vCard{
+  border: 1px solid #D6D7DA;
+  border-radius: 5px;
+  padding: 5px;
+}
+.pt-2{
+  padding-top: 15px;
+}
+ul{
+  margin: 0 auto;
+  display: block;
+  padding: 0;
+}
+ul > li{
+  color: #AA9E9E;
+  font-size: 20px;
+}
+ul > li:first-child{
+  color: #1B1C1D;
+  font-size: 23px;
+}
+li{
+  list-style-type: none;
+  text-align: center;
+}
